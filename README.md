@@ -1,2 +1,2 @@
 # micorservice
-In this project we will be using Angualar and Java
+In this project we will be creating a node.js microservice and deploy it using a Docker Swarm Cluster.
