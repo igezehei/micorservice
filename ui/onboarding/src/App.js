@@ -20,7 +20,7 @@ function App() {
           </p>
           <div class="column">
           <img src={logo6} className="App-logo" alt="logo6" />
-          <img src={logo4} className="App-logo" alt="logo4" />
+          
           <a
             className="App-link"
             href="https://github.com/igezehei"
@@ -29,7 +29,7 @@ function App() {
           >
             Start onboarding App
           </a>
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={logo4} className="App-logo" alt="logo4" />
         </div>
         
       </header>
