@@ -1,6 +1,12 @@
-# Micorservice -  Onboaring App 
+# Onboaring 
 
-This product enables onboarding of new clients that a new system with miniual support. It's designed by following the micoservice patterns and deployed into the cloud using a Docker.
+This product enables onboarding of new people that a new system with miniual support. It allows firms to configure business process of helping new clients or users adjust to social and performance aspects of their new ecosystem quickly and smoothly, and learn the attitudes, knowledge, skills, and behaviors required to function effectively within an ecosystem. It's designed by following the micoservice patterns and deployed into the cloud using a Docker.
+
+_**Functional Goals**_
+
+_**Not Functional Goals**_
+
+_**Microservice**_
 
 
 	Microservice is an architectural style that structures an application as a collection of loosely coupled services.
