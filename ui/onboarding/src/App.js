@@ -1,5 +1,5 @@
 import logo from "../src/alpha/assets/img/Humaaans/character 20.svg";
-import logo7 from "../src/alpha/assets/img/Humaaans/character 7.svg";
+import logo4 from "../src/alpha/assets/img/Humaaans/character 4.svg";
 import "./App.css";
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
           <span>g</span>
           </p>
           <div class="column">
-          <img src={logo7} className="App-logo" alt="logo7" />
+          <img src={logo4} className="App-logo" alt="logo4" />
           <a
             className="App-link"
             href="https://github.com/igezehei"
