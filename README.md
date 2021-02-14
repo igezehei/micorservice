@@ -1,8 +1,7 @@
+# Micorservice -  Onboaring App 
 
-# Micorservice
-In this project we will be creating a microservice and deploy it to cloud it using a Docker.
+This product enables onboarding of new clients that a new system with miniual support. It's designed by following the micoservice patterns and deployed into the cloud using a Docker.
 
-**Overview:**
 
 	Microservice is an architectural style that structures an application as a collection of loosely coupled services.
 
@@ -58,4 +57,9 @@ _6. Alignment of Architecture and Organization_
 2. _Containers and Kubernetes_ -  provide a much more lightweight way to provision isolated execution for service instances and allowing you to distribute container instances in such a way as to provide the robustness and throughput your service needs, all while allowing you to make efficient use of the underlying machines.
 3. _Streaming_-  share data between services using products that allow for the easy streaming and processing of what can often be large value of data such as Kafka, Flink, Debezium 
 4. _Public Cloud and Serverless_
+
+
+_**Docker**_
+
+	Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
 
