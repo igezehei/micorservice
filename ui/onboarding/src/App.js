@@ -1,4 +1,4 @@
-import logo from "../src/alpha/assets/img/Humaaans/character 20.svg";
+import logo6 from "../src/alpha/assets/img/Humaaans/character 6.svg";
 import logo4 from "../src/alpha/assets/img/Humaaans/character 4.svg";
 import "./App.css";
 
@@ -19,6 +19,7 @@ function App() {
           <span>g</span>
           </p>
           <div class="column">
+          <img src={logo6} className="App-logo" alt="logo6" />
           <img src={logo4} className="App-logo" alt="logo4" />
           <a
             className="App-link"
