@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 60vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #d9dee9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  padding-bottom: 5px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.App-link {
+  color: rgb(112, 112, 235);
+  align-self: center
+}
+
+.App-expand {
+	display: inline-flex;
+	height: 60px;
+	width: 60px;
+	/* border: 2.5px solid #FF1EAD; */
+	border: 2.35px solid rgb(144, 144, 245);
+	border-radius: 60px;
+	box-shadow:
+		0 0 2px rgb(239, 239, 243),
+		inset 0 0 2px rgba(10, 10, 10, 0.45);
+
+	animation: letter 5s ease-in-out infinite alternate;
+}
+
+@keyframes span {
+	0%,30%{ margin: 0 15px; }
+	70%,100%{ margin: 0 5px; }
+}
+@keyframes letter {
+	0%,30%{ width: 60px; }
+	70%,100%{ width: 20vw; }
+}
